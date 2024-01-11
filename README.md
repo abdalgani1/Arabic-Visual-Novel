@@ -1,5 +1,7 @@
 # Arabic-Visual-Novel
 This tools is first tool can help you to full translate any visual novel game to arabic, starting from white album2
+this is really simple tool, working by changing the fonts of kanji to arabic latters, and tool it self you click arabic latter and it output you kanji, this kanji is connected in font file to arabic letter by its work location first of word, middle, last and isolated. so 28 arabic latter be more that 100 with these locations
+and then you take this kanji latters and write them in file script files, and yeah you will get arabic support! also this tool help in right to left support somehow 
 
 how to use: 
 
