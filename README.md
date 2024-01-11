@@ -14,6 +14,7 @@ after that you need to change script files to be able to add arabic to it
 you can use garbro to extract sctipt.pak and then make folder and copy extacted files to it.
 
 about the app:
+![Capture](https://github.com/abdalgani1/Arabic-Visual-Novel/assets/88602099/d2ebca5f-e95a-4e91-b296-18c2a3b7448e)
 
 it first text area you can put arabic sctipt and then start click buttons to make the kanji alternatives and make sure to not exceed the 27kanji limit in one line , then click تنزيل to make program add new line and help in right to left support
 then just put the text in game files 
